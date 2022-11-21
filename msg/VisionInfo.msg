@@ -13,7 +13,7 @@
 Header header
 
 # Lookup array for the class index, zero based. 
-string [] class_names
+string[] class_names
 
 # Descriptions of the vision pipeline. This should be a value that is meaningful to an
 #   outside user.

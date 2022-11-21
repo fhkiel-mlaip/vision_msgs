@@ -13,17 +13,12 @@ add_message_files(
   DIRECTORY msg
   FILES
   BoundingBox2D.msg
-  BoundingBox2DArray.msg
   BoundingBox3D.msg
-  BoundingBox3DArray.msg
-  Classification2D.msg
-  Classification3D.msg
   Detection2DArray.msg
   Detection2D.msg
   Detection3DArray.msg
   Detection3D.msg
   ObjectHypothesis.msg
-  ObjectHypothesisWithPose.msg
   VisionInfo.msg
 )
 
