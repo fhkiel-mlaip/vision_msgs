@@ -2,6 +2,12 @@
 Changelog for package vision_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+0.0.3 (2022-02-13)
+------------------
+* Updated package for Wavelab use
+* 3D Object detection needs rework 
+
 0.0.2 (2022-04-09)
 ------------------
 * Added BoundingBox2DArray message `#60 <https://github.com/ros-perception/vision_msgs/issues/60>`_ from Fruchtzwerg94/array_for_2d_bounding_box

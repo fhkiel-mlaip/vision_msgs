@@ -33,5 +33,7 @@ Object metadata such as name, mesh, etc. can then be looked up from a database.
     to find its metadata database.
   * ObjectHypothesis: An id/score pair.
 
+![Detection Message](./VisionMsgs.jpg)
+
 By using a very general message definition, we hope to cover as many of the
 various computer vision use cases as possible. 
