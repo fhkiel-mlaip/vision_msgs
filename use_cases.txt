@@ -1,8 +1,9 @@
 Use cases: 
-    - 2D image detection (with or without tracking) --> 2D BBoxes
-    - 2D image and 3D point cloud data --> 3D Point "center" of the object (Bjarne/Lukas)
+    - 2D image detection (with or without tracking)
 
-    - 3D point cloud detection --> 3D BBoxes (Pablo)
+TODO:
+    - 2D image and 3D point cloud data --> 3D Point "center" of the object 
+    - 3D point cloud detection --> 3D BBoxes 
 
 Not considered at the moment:
     - 2D images --> 3D BBoxes (annotation process difficult)
