@@ -12,3 +12,6 @@ uint16 object_id
 
 # Tracking ID zero if not set, only valid for the corresponding camera source.  
 uint16 tracking_id
+
+# Heading of the detected object from the sensor perspective
+int16 heading
