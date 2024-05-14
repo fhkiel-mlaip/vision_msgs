@@ -20,6 +20,7 @@ add_message_files(
   Detection3D.msg
   ObjectHypothesis.msg
   VisionInfo.msg
+  DetectionDistance.msg
 )
 
 generate_messages(DEPENDENCIES

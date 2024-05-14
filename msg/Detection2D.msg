@@ -16,5 +16,5 @@ uint16 tracking_id
 # Bearing of the detected object from the sensor perspective
 float64  bearing
 
-# Distance information
-DetectionDistance dist
+# Distance information in nautical miles
+DetectionDistance distance

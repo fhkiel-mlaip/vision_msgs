@@ -1,4 +1,4 @@
-# Distance to an detected object
+# Distance to an detected object in nautical miles
 
 # Mean distance
 float32 mean_dist
