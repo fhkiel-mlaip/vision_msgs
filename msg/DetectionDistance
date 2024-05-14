@@ -1,0 +1,7 @@
+# Distance to an detected object
+
+# Mean distance
+float32 mean_dist
+
+#Std distnace
+float32 std_dist
